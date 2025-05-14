@@ -1,3 +1,3 @@
-# Folder 1) Air pollutants without weather variables
-# Folder 2) Air pollutants with weather variables
+# Folder 1) With weather variables (Updated) - Copy (2)
+# Folder 2) Without - (Updated)
 # just run the notebook in the folder
